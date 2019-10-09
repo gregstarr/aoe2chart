@@ -1,0 +1,7 @@
+name: aoe2chart
+dependencies:
+  - python=3.6
+  - matplotlib
+  - requests
+  - pip:
+      - bs4
