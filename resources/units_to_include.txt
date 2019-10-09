@@ -1,0 +1,76 @@
+Infantry
+Berserk
+Champion
+Condottiero
+Eagle Warrior
+Gbeto
+Halberdier
+Huskarl
+Jaguar Warrior
+Kamayuk
+Karambit Warrior
+Samurai
+Shotel Warrior
+Throwing Axeman
+Teutonic Knight
+Woad Raider
+
+Archers
+Arbalest
+Chu Ko Nu
+Genoese Crossbowman
+Hand Cannoneer
+Janissary
+Longbowman
+Plumed Archer
+Rattan Archer
+Elite Skirmisher
+Slinger
+
+Cavalry Archers
+Arambai
+Camel Archer
+Heavy Cavalry Archer
+Elephant Archer
+Genitour (mounted)
+Mangudai
+War Wagon
+
+Cavalry
+Ballista Elephant
+Battle Elephant
+Boyar
+Heavy Camel
+Cataphract
+Conquistador
+Hussar
+Magyar Huszar
+Mameluke
+Paladin
+Tarkan
+War Elephant
+
+Siege
+Bombard Cannon
+Organ Gun
+Petard
+Siege Ram
+Heavy Scorpion
+Siege Onager
+Siege Tower
+Trebuchet
+
+Navy
+Caravel
+Cannon Galleon
+Heavy Demolition Ship
+Fast Fire Ship
+Galleon
+Longboat
+Turtle Ship
+
+Misc
+Monk
+Castle
+Tower
+Bombard Tower

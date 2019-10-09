@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import yaml
 
-resource_directory = "C:\\Users\\Greg\\Documents\\AOE2 Chart"
+resource_directory = "resources"
 with open(os.path.join(resource_directory, "units.txt")) as f:
     unit_names = [l.strip() for l in f.readlines()]
 

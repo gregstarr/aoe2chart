@@ -1,0 +1,94 @@
+Monk
+Villager
+Militia
+Man-at-Arms
+Long Swordsman
+Two-Handed Swordsman
+Champion
+Spearman
+Pikeman
+Archer
+Crossbowman
+Arbalest
+Skirmisher
+Elite Skirmisher
+Hand Cannoneer
+Cavalry Archer
+Heavy Cavalry Archer
+Scout Cavalry
+Light Cavalry
+Knight
+Cavalier
+Paladin
+Camel
+Heavy Camel
+Battering Ram
+Capped Ram
+Siege Ram
+Scorpion
+Heavy Scorpion
+Bombard Cannon
+Trebuchet
+Galley
+War Galley
+Galleon
+Fire Ship
+Fast Fire Ship
+Demolition Ship
+Heavy Demolition Ship
+Cannon Galleon
+Elite Cannon Galleon
+Longbowman
+Cataphract
+Woad Raider
+Chu Ko Nu
+Throwing Axeman
+Huskarl
+Samurai
+War Elephant
+Mameluke
+Teutonic Knight
+Janissary
+Berserk
+Mangudai
+Longboat
+Hussar
+Petard
+War Wagon
+Turtle Ship
+Halberdier
+Eagle Warrior
+Elite Eagle Warrior
+Jaguar Warrior
+Tarkan
+Missionary
+Conquistador
+Plumed Archer
+Imperial Camel
+Eagle Scout
+Slinger
+Genoese Crossbowman
+Condottiero
+Elephant Archer
+Kamayuk
+Magyar Huszar
+Boyar
+Fire Galley
+Demolition Raft
+Camel Archer
+Genitour (mounted)
+Gbeto
+Shotel Warrior
+Caravel
+Organ Gun
+Siege Tower 
+Imperial Skirmisher
+Battle Elephant
+Elite Battle Elephant
+Arambai
+Ballista Elephant
+Karambit Warrior
+Rattan Archer
+Castle
+Watch Tower (Age of Empires II)
+Bombard Tower

@@ -1,0 +1,1055 @@
+Arambai:
+  counters:
+  - Genoese Crossbowman
+  - Huskarl
+  - Mameluke
+  - Heavy Camel
+  - Elite Skirmisher
+  - Eagle Warrior
+  - Camel Archer
+  display_name: Arambai
+  thumbnail: resources\thumbnails\Arambai.jpg
+Arbalest:
+  counters:
+  - Elite Skirmisher
+  - Heavy Scorpion
+  - Siege Onager
+  - Huskarl
+  - Eagle Warrior
+  display_name: "Arbalest/\nArchers"
+  thumbnail: resources\thumbnails\Arbalest.jpg
+Archer:
+  counters:
+  - Elite Skirmisher
+  - Scout Cavalry
+  - Eagle Scout
+  display_name: Archers
+  thumbnail: resources\thumbnails\Archer.jpg
+Ballista Elephant:
+  counters:
+  - Kamayuk
+  - Huskarl
+  - Mameluke
+  - Heavy Camel
+  - Eagle Warrior
+  - Halberdier
+  - Samurai
+  - Siege Onager
+  - Bombard Cannon
+  - Heavy Scorpion
+  - Siege Ram
+  - Magyar Huszar
+  - Mangudai
+  display_name: Ballista Elephants
+  thumbnail: resources\thumbnails\Ballista Elephant.jpg
+Battering Ram:
+  counters:
+  - Mangudai
+  - Siege Onager
+  - Magyar Huszar
+  - Paladin
+  - Champion
+  display_name: Battering Rams
+  thumbnail: resources\thumbnails\Battering Ram.jpg
+Battle Elephant:
+  counters:
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Genoese Crossbowman
+  - Mameluke
+  - Heavy Camel
+  - Cavalry Archer
+  - Monk
+  - War Elephant
+  - Heavy Scorpion
+  display_name: Battle Elephants
+  thumbnail: resources\thumbnails\Battle Elephant.jpg
+Berserk:
+  counters:
+  - Cataphract
+  - Jaguar Warrior
+  - Boyar
+  - Hand Cannoneer
+  - Conquistador
+  - Slinger
+  - Samurai
+  - Teutonic Knight
+  display_name: Berserks
+  thumbnail: resources\thumbnails\Berserk.jpg
+Bombard Cannon:
+  counters:
+  - Condottiero
+  - Magyar Huszar
+  - Paladin
+  - Hussar
+  - Champion
+  - Berserk
+  - Eagle Warrior
+  - Mangudai
+  display_name: Bombard Cannons
+  thumbnail: resources\thumbnails\Bombard Cannon.jpg
+Boyar:
+  counters:
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Teutonic Knight
+  - Mameluke
+  - Heavy Camel
+  - Monk
+  - War Elephant
+  - Samurai
+  - Heavy Scorpion
+  - Castle
+  - Tower
+  - Arbalest
+  display_name: Boyars
+  thumbnail: resources\thumbnails\Boyar.jpg
+Camel:
+  counters:
+  - Champion
+  - Berserk
+  - Teutonic Knight
+  - Arbalest
+  - Cataphract
+  - Castle
+  - Tower
+  display_name: Camels
+  thumbnail: resources\thumbnails\Camel.jpg
+Camel Archer:
+  counters:
+  - Huskarl
+  - Elite Skirmisher
+  - Eagle Warrior
+  - Siege Onager
+  - Genitour (mounted)
+  display_name: Camel Archers
+  thumbnail: resources\thumbnails\Camel Archer.jpg
+Cannon Galleon:
+  counters:
+  - Galleon
+  - Bombard Cannon
+  - Monk
+  display_name: Cannon Galleons
+  thumbnail: resources\thumbnails\Cannon Galleon.jpg
+Capped Ram:
+  counters:
+  - Mangudai
+  - Siege Onager
+  - Magyar Huszar
+  - Champion
+  - Paladin
+  display_name: Capped Rams
+  thumbnail: resources\thumbnails\Capped Ram.jpg
+Caravel:
+  counters:
+  - Fast Fire Ship
+  - Turtle Ship
+  - Longboat
+  - Tower
+  - Castle
+  - Siege Onager
+  - Bombard Cannon
+  display_name: Caravels
+  thumbnail: resources\thumbnails\Caravel.jpg
+Castle:
+  counters:
+  - Siege Ram
+  - Trebuchet
+  - Bombard Cannon
+  - Tarkan
+  - Huskarl
+  - War Elephant
+  - Cannon Galleon
+  display_name: Castles
+  thumbnail: resources\thumbnails\Castle.jpg
+Cataphract:
+  counters:
+  - War Elephant
+  - Arbalest
+  - Boyar
+  - Knight
+  - Monk
+  - Kamayuk
+  - Halberdier
+  - Heavy Camel
+  - Camel Archer
+  display_name: Cataphracts
+  thumbnail: resources\thumbnails\Cataphract.jpg
+Cavalier:
+  counters:
+  - Boyar
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Berserk
+  - Genoese Crossbowman
+  - Teutonic Knight
+  - Mameluke
+  - Heavy Camel
+  - Monk
+  - War Elephant
+  display_name: Cavaliers
+  thumbnail: resources\thumbnails\Cavalier.jpg
+Cavalry Archer:
+  counters:
+  - Kamayuk
+  - Genoese Crossbowman
+  - Huskarl
+  - Elite Skirmisher
+  - Eagle Warrior
+  - Siege Onager
+  - Heavy Scorpion
+  - Heavy Camel
+  display_name: Cavalry Archers
+  thumbnail: resources\thumbnails\Cavalry Archer.jpg
+Champion:
+  counters:
+  - Archer
+  - Arbalest
+  - Heavy Scorpion
+  - Cataphract
+  - Jaguar Warrior
+  - Boyar
+  - Hand Cannoneer
+  - Conquistador
+  - Janissary
+  - Slinger
+  - Teutonic Knight
+  display_name: "Champions/\nInfantry"
+  thumbnail: resources\thumbnails\Champion.jpg
+Chu Ko Nu:
+  counters:
+  - Elite Skirmisher
+  - Heavy Scorpion
+  - Siege Onager
+  - Huskarl
+  - Eagle Warrior
+  - Genitour (mounted)
+  display_name: Chu Ko Nu
+  thumbnail: resources\thumbnails\Chu Ko Nu.jpg
+Condottiero:
+  counters:
+  - Arbalest
+  - Heavy Scorpion
+  - Boyar
+  - Teutonic Knight
+  - Samurai
+  - Cataphract
+  - Jaguar Warrior
+  - Plumed Archer
+  display_name: Condottieri
+  thumbnail: resources\thumbnails\Condottiero.jpg
+Conquistador:
+  counters:
+  - Kamayuk
+  - Genoese Crossbowman
+  - Huskarl
+  - Condottiero
+  - Mameluke
+  - Heavy Camel
+  - Elite Skirmisher
+  - Eagle Warrior
+  - Siege Onager
+  - Pikeman
+  - Halberdier
+  - Samurai
+  display_name: Conquistadors
+  thumbnail: resources\thumbnails\Conquistador.jpg
+Crossbowman:
+  counters:
+  - Elite Skirmisher
+  - Heavy Scorpion
+  - Siege Onager
+  - Battering Ram
+  - Paladin
+  - Huskarl
+  - Eagle Warrior
+  display_name: Crossbowmen
+  thumbnail: resources\thumbnails\Crossbowman.jpg
+Demolition Raft:
+  counters:
+  - Tower
+  - Arbalest
+  - Bombard Cannon
+  display_name: Demolition Rafts
+  thumbnail: resources\thumbnails\Demolition Raft.jpg
+Demolition Ship:
+  counters:
+  - Turtle Ship
+  - Tower
+  - Castle
+  - Arbalest
+  - Bombard Cannon
+  display_name: Demolition Ships
+  thumbnail: resources\thumbnails\Demolition Ship.jpg
+Eagle Scout:
+  counters:
+  - Champion
+  display_name: Eagle Scouts
+  thumbnail: resources\thumbnails\Eagle Scout.jpg
+Eagle Warrior:
+  counters:
+  - Berserk
+  - Cataphract
+  - Boyar
+  - Hand Cannoneer
+  - Janissary
+  - Champion
+  - Slinger
+  display_name: Eagle Warriors
+  thumbnail: resources\thumbnails\Eagle Warrior.jpg
+Elephant Archer:
+  counters:
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Berserk
+  - Genoese Crossbowman
+  - Huskarl
+  - Mameluke
+  - Heavy Camel
+  - Elite Skirmisher
+  - Eagle Warrior
+  - Samurai
+  - Monk
+  display_name: Elephant Archers
+  thumbnail: resources\thumbnails\Elephant Archer.jpg
+Elite Battle Elephant:
+  counters:
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Genoese Crossbowman
+  - Mameluke
+  - Heavy Cavalry Archer
+  - Monk
+  - War Elephant
+  - Heavy Scorpion
+  display_name: Elite Battle Elephants
+  thumbnail: resources\thumbnails\Elite Battle Elephant.jpg
+Elite Cannon Galleon:
+  counters:
+  - Galleon
+  - Bombard Cannon
+  - Monk
+  display_name: Elite Cannon Galleons
+  thumbnail: resources\thumbnails\Elite Cannon Galleon.jpg
+Elite Eagle Warrior:
+  counters:
+  - Cataphract
+  - Boyar
+  - Hand Cannoneer
+  - Janissary
+  - Champion
+  - Slinger
+  display_name: Elite Eagle Warriors
+  thumbnail: resources\thumbnails\Elite Eagle Warrior.jpg
+Elite Skirmisher:
+  counters:
+  - Paladin
+  - Hussar
+  - Champion
+  - Siege Onager
+  - Berserk
+  - Eagle Warrior
+  display_name: Skirmishers
+  thumbnail: resources\thumbnails\Elite Skirmisher.jpg
+Fast Fire Ship:
+  counters:
+  - Demolition Ship
+  - Turtle Ship
+  - Longboat
+  - Tower
+  - Castle
+  - Arbalest
+  - Bombard Cannon
+  display_name: Fire Ships
+  thumbnail: resources\thumbnails\Fast Fire Ship.jpg
+Fire Galley:
+  counters:
+  - Demolition Raft
+  - Tower
+  - Arbalest
+  - Bombard Cannon
+  display_name: Fire Galleys
+  thumbnail: resources\thumbnails\Fire Galley.jpg
+Fire Ship:
+  counters:
+  - Demolition Ship
+  - Turtle Ship
+  - Longboat
+  - Tower
+  - Castle
+  - Arbalest
+  - Bombard Cannon
+  display_name: Fire Ships
+  thumbnail: resources\thumbnails\Fire Ship.jpg
+Galleon:
+  counters:
+  - Fast Fire Ship
+  - Turtle Ship
+  - Longboat
+  - Tower
+  - Castle
+  - Bombard Cannon
+  - Siege Onager
+  display_name: Galleons
+  thumbnail: resources\thumbnails\Galleon.jpg
+Galley:
+  counters:
+  - Fire Galley
+  - Tower
+  - Castle
+  - Arbalest
+  - Bombard Cannon
+  display_name: Galleys
+  thumbnail: resources\thumbnails\Galley.jpg
+Gbeto:
+  counters:
+  - Siege Onager
+  - Jaguar Warrior
+  - Hand Cannoneer
+  - Janissary
+  - Paladin
+  - Samurai
+  - Slinger
+  - Plumed Archer
+  display_name: Gbetos
+  thumbnail: resources\thumbnails\Gbeto.jpg
+Genitour (mounted):
+  counters:
+  - Heavy Camel
+  - Pikeman
+  - Halberdier
+  - Siege Onager
+  - Genoese Crossbowman
+  - Huskarl
+  - Eagle Warrior
+  display_name: Genitours
+  thumbnail: resources\thumbnails\Genitour (mounted).jpg
+Genoese Crossbowman:
+  counters:
+  - Archer
+  - Arbalest
+  - Heavy Scorpion
+  - Siege Onager
+  - Huskarl
+  - Eagle Warrior
+  - Samurai
+  display_name: "Genoese\nCrossbowmen"
+  thumbnail: resources\thumbnails\Genoese Crossbowman.jpg
+Halberdier:
+  counters:
+  - Archer
+  - Arbalest
+  - Plumed Archer
+  - Heavy Scorpion
+  - Hand Cannoneer
+  - Janissary
+  - Champion
+  - Slinger
+  display_name: Halberdiers
+  thumbnail: resources\thumbnails\Halberdier.jpg
+Hand Cannoneer:
+  counters:
+  - Elite Skirmisher
+  - Heavy Scorpion
+  - Siege Onager
+  - Paladin
+  - Huskarl
+  - Condottiero
+  display_name: Hand Cannoneers
+  thumbnail: resources\thumbnails\Hand Cannoneer.jpg
+Heavy Camel:
+  counters:
+  - Champion
+  - Arbalest
+  - Cataphract
+  - Monk
+  - Halberdier
+  - Kamayuk
+  display_name: Camels
+  thumbnail: resources\thumbnails\Heavy Camel.jpg
+Heavy Cavalry Archer:
+  counters:
+  - Kamayuk
+  - Genoese Crossbowman
+  - Huskarl
+  - Mameluke
+  - Heavy Camel
+  - Elite Skirmisher
+  - Eagle Warrior
+  - Siege Onager
+  - Heavy Scorpion
+  - Camel Archer
+  display_name: Heavy Cavalry Archers
+  thumbnail: resources\thumbnails\Heavy Cavalry Archer.jpg
+Heavy Demolition Ship:
+  counters:
+  - Turtle Ship
+  - Tower
+  - Castle
+  - Arbalest
+  - Bombard Cannon
+  display_name: Demolition Ships
+  thumbnail: resources\thumbnails\Heavy Demolition Ship.jpg
+Heavy Scorpion:
+  counters:
+  - Magyar Huszars
+  - Paladin
+  - Hussar
+  - Mangudai
+  - Siege Onager
+  - Eagle Warrior
+  - Woad Raider
+  - Huskarl
+  - Bombard Cannon
+  - Longbowman
+  - Trebuchet
+  display_name: Scorpions
+  thumbnail: resources\thumbnails\Heavy Scorpion.jpg
+Huskarl:
+  counters:
+  - Siege Onager
+  - Champion
+  - Paladin
+  - Cataphract
+  - Hand Cannoneer
+  - Samurai
+  - Berserk
+  display_name: Huskarls
+  thumbnail: resources\thumbnails\Huskarl.jpg
+Hussar:
+  counters:
+  - Champion
+  - Paladin
+  - Halberdier
+  - Heavy Camel
+  display_name: "Hussars/\nLight Cavalry"
+  thumbnail: resources\thumbnails\Hussar.jpg
+Imperial Camel:
+  counters:
+  - Pikeman
+  - Halberdier
+  - Teutonic Knight
+  - Genoese Crossbowman
+  - Berserk
+  display_name: Imperial Camels
+  thumbnail: resources\thumbnails\Imperial Camel.jpg
+Imperial Skirmisher:
+  counters:
+  - Champion
+  - Paladin
+  - Hussar
+  - Siege Onager
+  display_name: Imperial Skirmishers
+  thumbnail: resources\thumbnails\Imperial Skirmisher.jpg
+Jaguar Warrior:
+  counters:
+  - Archer
+  - Arbalest
+  - Heavy Scorpion
+  - Siege Onager
+  - Cataphract
+  - Boyar
+  - Hand Cannoneer
+  - Conquistador
+  - Janissary
+  - Slinger
+  - Paladin
+  - Samurai
+  display_name: Jaguar Warriors
+  thumbnail: resources\thumbnails\Jaguar Warrior.jpg
+Janissary:
+  counters:
+  - Elite Skirmisher
+  - Samurai
+  - Heavy Scorpion
+  - Siege Onager
+  - Huskarl
+  - Condottiero
+  - Bombard Cannon
+  display_name: Janissaries
+  thumbnail: resources\thumbnails\Janissary.jpg
+Kamayuk:
+  counters:
+  - Plumed Archer
+  - Heavy Scorpion
+  - Siege Onager
+  - Hand Cannoneer
+  - Janissary
+  - Monk
+  - Slinger
+  - Cataphract
+  - Teutonic Knight
+  display_name: Kamayuks
+  thumbnail: resources\thumbnails\Kamayuk.jpg
+Karambit Warrior:
+  counters:
+  - Archer
+  - Arbalest
+  - Jaguar Warrior
+  - Hand Cannoneer
+  - Conquistador
+  - Slinger
+  - Boyar
+  - Cataphract
+  - Samurai
+  - Berserk
+  - Teutonic Knight
+  display_name: Karambit Warriors
+  thumbnail: resources\thumbnails\Karambit Warrior.jpg
+Knight:
+  counters:
+  - Boyar
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Berserk
+  - Genoese Crossbowman
+  - Teutonic Knight
+  - Mameluke
+  - Heavy Camel
+  - Monk
+  - War Elephant
+  display_name: Knights
+  thumbnail: resources\thumbnails\Knight.jpg
+Light Cavalry:
+  counters:
+  - Champion
+  - Paladin
+  - Halberdier
+  display_name: Light Cavalry
+  thumbnail: resources\thumbnails\Light Cavalry.jpg
+Long Swordsman:
+  counters:
+  - Archer
+  - Arbalest
+  - Heavy Scorpion
+  - Cataphract
+  - Jaguar Warrior
+  - Boyar
+  - Conquistador
+  - Janissary
+  - Slinger
+  - Teutonic Knight
+  display_name: Long Swordsmen
+  thumbnail: resources\thumbnails\Long Swordsman.jpg
+Longboat:
+  counters:
+  - Fast Fire Ship
+  - Turtle Ship
+  - Samurai
+  - Tower
+  - Castle
+  - Siege Onager
+  - Bombard Cannon
+  display_name: Longboats
+  thumbnail: resources\thumbnails\Longboat.jpg
+Longbowman:
+  counters:
+  - Elite Skirmisher
+  - Samurai
+  - Bombard Cannon
+  - Siege Onager
+  - Hussar
+  - Paladin
+  - Huskarl
+  - Eagle Warrior
+  - Genitour (mounted)
+  - Siege Ram
+  display_name: Longbowmen
+  thumbnail: resources\thumbnails\Longbowman.jpg
+Magyar Huszar:
+  counters:
+  - Boyar
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Berserk
+  - Genoese Crossbowman
+  - Teutonic Knight
+  - Mameluke
+  - Heavy Camel
+  - Eagle Warrior
+  - Samurai
+  display_name: Magyar Huszars
+  thumbnail: resources\thumbnails\Magyar Huszar.jpg
+Mameluke:
+  counters:
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Berserk
+  - Genoese Crossbowman
+  display_name: Mamelukes
+  thumbnail: resources\thumbnails\Mameluke.jpg
+Man-at-Arms:
+  counters:
+  - Archer
+  - Heavy Scorpion
+  display_name: Men-at-Arms
+  thumbnail: resources\thumbnails\Man-at-Arms.jpg
+Mangudai:
+  counters:
+  - Kamayuk
+  - Genoese Crossbowman
+  - Huskarl
+  - Mameluke
+  - Heavy Camel
+  - Elite Skirmisher
+  - Eagle Warrior
+  - Halberdier
+  - Samurai
+  - Camel Archer
+  display_name: Mangudai
+  thumbnail: resources\thumbnails\Mangudai.jpg
+Militia:
+  counters:
+  - Almost everything
+  - Villager
+  display_name: Militia
+  thumbnail: resources\thumbnails\Militia.jpg
+Missionary:
+  counters:
+  - Archer
+  - Arbalest
+  - Eagle Warrior
+  - Hussar
+  - Heavy Camel
+  - Halberdier
+  - Genoese Crossbowman
+  - Tower
+  - Castle
+  display_name: Missionaries
+  thumbnail: resources\thumbnails\Missionary.jpg
+Monk:
+  counters:
+  - Eagle Warrior
+  - Hussar
+  display_name: Monks
+  thumbnail: resources\thumbnails\Monk.jpg
+Organ Gun:
+  counters:
+  - Samurai
+  - Condottiero
+  - Hussar
+  - Paladin
+  - Siege Onager
+  - Bombard Cannon
+  - Huskarl
+  display_name: Organ Guns
+  thumbnail: resources\thumbnails\Organ Gun.jpg
+Paladin:
+  counters:
+  - Boyar
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Genoese Crossbowman
+  - Teutonic Knight
+  - Mameluke
+  - Heavy Camel
+  - Monk
+  - War Elephant
+  display_name: "Paladins/\nHeavy Cavalry"  
+  thumbnail: resources\thumbnails\Paladin.jpg
+Petard:
+  counters:
+  - Archer
+  - Arbalest
+  - Heavy Scorpion
+  - Cavalry Archer
+  - Mangudai
+  - Magyar Huszar
+  - Castle
+  - Tower
+  display_name: Petards
+  thumbnail: resources\thumbnails\Petard.jpg
+Pikeman:
+  counters:
+  - Archer
+  - Arbalest
+  - Heavy Scorpion
+  - Cataphract
+  - Janissary
+  - Champion
+  - Slinger
+  display_name: Pikemen
+  thumbnail: resources\thumbnails\Pikeman.jpg
+Plumed Archer:
+  counters:
+  - Elite Skirmisher
+  - Heavy Scorpion
+  - Siege Onager
+  - Hussar
+  - Paladin
+  - Huskarl
+  - Eagle Warrior
+  - Rattan Archer
+  - Genitour (mounted)
+  display_name: Plumed Archers
+  thumbnail: resources\thumbnails\Plumed Archer.jpg
+Rattan Archer:
+  counters:
+  - Paladin
+  - Hussar
+  - Huskarl
+  - Eagle Warrior
+  - Siege Onager
+  display_name: Rattan Archers
+  thumbnail: resources\thumbnails\Rattan Archer.jpg
+Samurai:
+  counters:
+  - Archer
+  - Arbalest
+  - Hand Cannoneer
+  - Paladin
+  - Heavy Scorpion
+  display_name: Samurais
+  thumbnail: resources\thumbnails\Samurai.jpg
+Scorpion:
+  counters:
+  - Magyar Huszars
+  - Hussar
+  - Paladin
+  - Mangudai
+  - Siege Onager
+  - Eagle Warrior
+  - Woad Raider
+  - Huskarl
+  - Bombard Cannon
+  - Longbowman
+  display_name: Scorpions
+  thumbnail: resources\thumbnails\Scorpion.jpg
+Scout Cavalry:
+  counters:
+  - Champion
+  - Paladin
+  display_name: Scout Cavalrys
+  thumbnail: resources\thumbnails\Scout Cavalry.jpg
+Shotel Warrior:
+  counters:
+  - Cavalry Archer
+  - Siege Onager
+  - Hand Cannoneer
+  - Paladin
+  - Champion
+  display_name: Shotel Warriors
+  thumbnail: resources\thumbnails\Shotel Warrior.jpg
+Siege Onager:
+  counters:
+  - Champion
+  - Magyar Huszar
+  - Hussar
+  - Paladin
+  - Mangudai
+  - Woad Raider
+  - Condottieri
+  - Bombard Cannon
+  - Eagle Warrior
+  - Monk
+  display_name: Onagers
+  thumbnail: resources\thumbnails\Siege_Onager.jpg
+Siege Ram:
+  counters:
+  - Mangudai
+  - Siege Onager
+  - Magyar Huszar
+  - Champion
+  - Berserk
+  - Eagle Warrior
+  - Paladin
+  - Hussar
+  display_name: Rams
+  thumbnail: resources\thumbnails\Siege Ram.jpg
+Siege Tower:
+  counters:
+  - Champion
+  - Paladin
+  - Hussar
+  - Magyar Huszar
+  - Eagle Warrior
+  display_name: Siege Towers
+  thumbnail: resources\thumbnails\Siege Tower.jpg
+Skirmisher:
+  counters:
+  - Hussar
+  - Champion
+  - Paladin
+  - Siege Onager
+  display_name: Skirmishers
+  thumbnail: resources\thumbnails\Skirmisher.jpg
+Slinger:
+  counters:
+  - Elite Skirmisher
+  - Heavy Scorpion
+  - Siege Onager
+  - Huskarl
+  - Hussar
+  - Paladin
+  - Genitour (mounted)
+  - Rattan Archer
+  display_name: Slingers
+  thumbnail: resources\thumbnails\Slinger.jpg
+Spearman:
+  counters:
+  - Archer
+  - Champion
+  display_name: Spearmen
+  thumbnail: resources\thumbnails\Spearman.jpg
+Tarkan:
+  counters:
+  - Champion
+  - Paladin
+  - Genoese Crossbowman
+  - Mameluke
+  - Heavy Camel
+  display_name: Tarkans
+  thumbnail: resources\thumbnails\Tarkan.jpg
+Teutonic Knight:
+  counters:
+  - Archer
+  - Arbalest
+  - Heavy Scorpion
+  - Siege Onager
+  - Hand Cannoneer
+  - Conquistador
+  - Janissary
+  - Slinger
+  - Monk
+  - Cataphract
+  display_name: Teutonic Knights
+  thumbnail: resources\thumbnails\Teutonic Knight.jpg
+Throwing Axeman:
+  counters:
+  - Archer
+  - Arbalest
+  - Jaguar Warrior
+  - Hand Cannoneer
+  - Conquistador
+  - Slinger
+  - Boyar
+  - Cataphract
+  - Samurai
+  - Teutonic Knight
+  display_name: Throwing Axemen
+  thumbnail: resources\thumbnails\Throwing Axeman.jpg
+Trebuchet:
+  counters:
+  - Magyar Huszar
+  - Eagle Warrior
+  - Paladin
+  - Hussar
+  - Champion
+  - Bombard Cannon
+  - Siege Onager
+  display_name: Trebuchets
+  thumbnail: resources\thumbnails\Trebuchet.jpg
+Turtle Ship:
+  counters:
+  - Bombard Cannon
+  - Monk
+  - Trebuchet
+  - Castle
+  - Tower
+  - Condottiero
+  display_name: Turtle Ships
+  thumbnail: resources\thumbnails\Turtle Ship.jpg
+Two-Handed Swordsman:
+  counters:
+  - Arbalest
+  - Heavy Scorpion
+  - Cataphract
+  - Jaguar Warrior
+  - Boyar
+  - Hand Cannoneer
+  - Conquistador
+  - Janissary
+  - Slinger
+  - Teutonic Knight
+  display_name: Two-Handed Swordsmen
+  thumbnail: resources\thumbnails\Two-Handed Swordsman.jpg
+Villager:
+  counters:
+  - Militia
+  - Villager
+  display_name: Villagers
+  thumbnail: resources\thumbnails\Villager.jpg
+War Elephant:
+  counters:
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Genoese Crossbowman
+  - Mameluke
+  - Heavy Camel
+  - Cavalry Archer
+  - Monk
+  display_name: War Elephants
+  thumbnail: resources\thumbnails\War Elephant.jpg
+War Galley:
+  counters:
+  - Fast Fire Ship
+  - Turtle Ship
+  - Longboat
+  - Tower
+  - Castle
+  - Siege Onager
+  - Bombard Cannon
+  display_name: War Galleys
+  thumbnail: resources\thumbnails\War Galley.jpg
+War Wagon:
+  counters:
+  - Paladin
+  - Pikeman
+  - Halberdier
+  - Kamayuk
+  - Genoese Crossbowman
+  - Huskarl
+  - Mameluke
+  - Heavy Camel
+  - Elite Skirmisher
+  - Eagle Warrior
+  - Siege Onager
+  - Samurai
+  - Monk
+  display_name: War Wagons
+  thumbnail: resources\thumbnails\War Wagon.jpg
+Tower:
+  counters:
+  - Siege Onager
+  - Siege Ram
+  - Bombard Cannon
+  - Trebuchet
+  - Tarkan
+  - Huskarl
+  - War Elephant
+  - Cannon Galleon
+  display_name: Towers
+  thumbnail: resources\thumbnails\Watch Tower (Age of Empires II).jpg
+Bombard Tower:
+  counters:
+  - Siege Ram
+  - Bombard Cannon
+  - Trebuchet
+  - Tarkan
+  - War Elephant
+  display_name: Bombard Towers
+  thumbnail: resources\thumbnails\bombard_tower.png
+Woad Raider:
+  counters:
+  - Arbalest
+  - Jaguar Warrior
+  - Hand Cannoneer
+  - Conquistador
+  - Slinger
+  - Paladin
+  - Samurai
+  - Berserk
+  - Teutonic Knight
+  - Boyar
+  display_name: Woad Raiders
+  thumbnail: resources\thumbnails\Woad Raider.jpg

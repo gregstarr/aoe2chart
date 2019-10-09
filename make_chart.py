@@ -4,7 +4,7 @@ import yaml
 import os
 
 
-resource_directory = "C:\\Users\\Greg\\Documents\\AOE2 Chart"
+resource_directory = "resources"
 
 with open(os.path.join(resource_directory, "unit_data.yml")) as f:
     unit_dict = yaml.safe_load(f)
