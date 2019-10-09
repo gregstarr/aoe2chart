@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f15fd1be-8dc8-422d-a22d-96ae1ff2907c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_unit_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_unit_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_unit_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_unit_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/make_chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/make_chart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/make_chart_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/make_chart_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/unit_data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/unit_data.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
